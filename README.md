@@ -56,6 +56,8 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 There are two methods to add a picture in the markdown file. 
 
 One is using the link on the internet, the other is using the absolute path on the local computer.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![kitty with heart](https://i.pinimg.com/originals/36/33/c0/3633c0cd975ee5d1ca31f76893c19223.jpg)
+![kittttty](https://i.pinimg.com/originals/96/1a/3b/961a3b5d8de28b2f09dc26d96651bad6.png)
 
 
